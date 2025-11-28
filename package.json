@@ -1,0 +1,10 @@
+{
+	"name": "redsc-network-info",
+	"version": "1.0.0",
+	"author": "helloimbernardo",
+	"packageManager": "pnpm@10.24.0",
+	"dependencies": {
+		"tailwindcss": "^4.1.17",
+		"@tailwindcss/cli": "^4.1.17"
+	}
+}
